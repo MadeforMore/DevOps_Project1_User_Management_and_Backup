@@ -164,12 +164,6 @@ mkdir -p ~/demo && echo hi > ~/demo/hello.txt
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
 ## 🌱 Resume Bullets
 
 * Built a Linux shell script to automate user & group management and backups.
@@ -178,8 +172,4 @@ MIT License
 
 ```
 
----
-
-👉 Would you like me to also **add screenshots/demo outputs** in the README.md (like how menu looks, how backup confirmation looks), or keep it plain text for now?
-```
 
