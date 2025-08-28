@@ -165,7 +165,7 @@ mkdir -p ~/demo && echo hi > ~/demo/hello.txt
 ---
 
 ## 🌱 Resume Bullets
-
+```
 * Built a Linux shell script to automate user & group management and backups.
 * Implemented verified backups with compression and checksums.
 * Practiced Git/GitHub for version control and reproducibility.
