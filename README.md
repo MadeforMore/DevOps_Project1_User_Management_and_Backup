@@ -66,7 +66,7 @@ git push -u origin main
 
 ---
 
-# 🔹 Part 2 — README.md (GitHub Friendly)
+# 🔹 Part 2 
 
 ````markdown
 # User Management & Backup (Bash)
