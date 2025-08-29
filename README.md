@@ -12,7 +12,7 @@ Here’s the split:
 
 ---
 ## 🌱 Project Flow 
-<img width="1024" height="1536" alt="ChatGPT Image Aug 28, 2025, 11_35_22 PM" src="https://github.com/user-attachments/assets/3bb458b4-d724-4bbb-ab33-29df2bb7267e" />
+<img width="800" height="1000" alt="ChatGPT Image Aug 28, 2025, 11_35_22 PM" src="https://github.com/user-attachments/assets/3bb458b4-d724-4bbb-ab33-29df2bb7267e" />
 ---
 # 🔹 Part 1 — All Commands
 
