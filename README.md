@@ -3,6 +3,11 @@ Shell Script for User Management and Backup in Linux
 
 ---
 
+## 🌱 Project Flow 
+<img width="800" height="1000" alt="ChatGPT Image Aug 28, 2025, 11_35_22 PM" src="https://github.com/user-attachments/assets/3bb458b4-d724-4bbb-ab33-29df2bb7267e" />
+
+---
+
 Got it ✅ You want me to split your full guide into two neat parts:
 
 1. **All Commands** (just the terminal commands to copy-paste step by step).
@@ -10,9 +15,6 @@ Got it ✅ You want me to split your full guide into two neat parts:
 
 Here’s the split:
 
----
-## 🌱 Project Flow 
-<img width="800" height="1000" alt="ChatGPT Image Aug 28, 2025, 11_35_22 PM" src="https://github.com/user-attachments/assets/3bb458b4-d724-4bbb-ab33-29df2bb7267e" />
 ---
 # 🔹 Part 1 — All Commands
 
